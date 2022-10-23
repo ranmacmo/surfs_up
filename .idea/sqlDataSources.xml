@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f7edeafd-b812-4598-b648-cef8303764a6" name="hawaii Mapping">
+      <data-sources db="ee1fedfe-db8e-4de7-b6d1-e77224099120" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
